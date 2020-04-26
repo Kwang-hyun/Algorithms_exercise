@@ -1,0 +1,2 @@
+module Greedy_Algorithms {
+}
